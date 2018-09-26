@@ -585,8 +585,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1864,7 +1864,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r3ynVqp8YL {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
